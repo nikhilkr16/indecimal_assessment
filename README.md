@@ -1,6 +1,9 @@
 # 🏗️ Construction Marketplace RAG Assistant
 
 > A complete Retrieval-Augmented Generation (RAG) system for answering construction marketplace questions using internal documents. Grounded answers powered by semantic search and LLMs.
+<img width="1677" height="885" alt="image" src="https://github.com/user-attachments/assets/3c4ff4d8-1cf5-478c-86cd-6a8cfc342d96" />
+<img width="1811" height="966" alt="image" src="https://github.com/user-attachments/assets/fe234675-629b-4ee2-b0bc-8d7f4fd3d55d" />
+
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Flask](https://img.shields.io/badge/flask-3.0+-green.svg)](https://flask.palletsprojects.com/)
