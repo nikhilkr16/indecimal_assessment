@@ -1,0 +1,146 @@
+# Construction Marketplace - Sample FAQ Document
+
+## Project Management
+
+### What factors affect construction project delays?
+
+Construction project delays can be caused by several factors:
+
+1. **Weather Conditions**: Rain, snow, extreme temperatures, and high winds can halt construction activities and damage materials.
+
+2. **Material Shortages**: Delays in material delivery, supply chain disruptions, or unavailability of specific materials can impact timelines.
+
+3. **Labor Issues**: Shortage of skilled workers, labor strikes, high turnover rates, or scheduling conflicts.
+
+4. **Design Changes**: Mid-project design modifications require rework and additional time.
+
+5. **Permit Delays**: Waiting for regulatory approvals, inspections, or permit renewals.
+
+6. **Equipment Failures**: Breakdown of machinery, unavailability of specialized equipment, or maintenance issues.
+
+7. **Poor Planning**: Inadequate project planning, unrealistic schedules, or poor coordination between teams.
+
+8. **Financial Constraints**: Budget overruns, payment delays, or funding issues.
+
+## Safety Requirements
+
+### What are the safety requirements for construction sites?
+
+All construction sites must comply with the following safety requirements:
+
+1. **Personal Protective Equipment (PPE)**:
+   - Hard hats for all workers
+   - Safety glasses or goggles
+   - Steel-toed boots
+   - High-visibility vests
+   - Gloves appropriate for the task
+
+2. **Site Fencing and Signage**:
+   - Proper site perimeter fencing
+   - Warning signs at entry points
+   - Restricted access zones clearly marked
+
+3. **Fall Protection**:
+   - Guardrails on elevated platforms
+   - Safety harnesses for work above 6 feet
+   - Safety nets where applicable
+
+4. **Emergency Procedures**:
+   - First aid kits accessible
+   - Emergency contact numbers posted
+   - Evacuation routes clearly marked
+   - Fire extinguishers available
+
+5. **Equipment Safety**:
+   - Regular equipment inspections
+   - Operator certifications verified
+   - Lockout/tagout procedures followed
+
+## Procurement
+
+### How should material procurement be handled?
+
+Material procurement follows these steps:
+
+1. **Planning Phase**:
+   - Create detailed material requirements list
+   - Identify lead times for all materials
+   - Set budget allocations
+
+2. **Vendor Selection**:
+   - Request quotes from multiple suppliers
+   - Compare pricing, quality, and delivery times
+   - Check vendor certifications and references
+
+3. **Purchase Orders**:
+   - Issue formal purchase orders
+   - Specify delivery schedules
+   - Include quality specifications
+
+4. **Delivery Coordination**:
+   - Coordinate delivery with project schedule
+   - Ensure proper storage facilities
+   - Verify quantities upon delivery
+
+5. **Quality Control**:
+   - Inspect materials upon receipt
+   - Document any defects or shortages
+   - Reject non-conforming materials
+
+## Payment Terms
+
+### What are the payment terms for contractors?
+
+Standard payment terms include:
+
+1. **Payment Schedule**:
+   - Progress payments based on completed milestones
+   - Monthly billing cycles
+   - Retention percentage (typically 5-10%)
+
+2. **Invoice Requirements**:
+   - Detailed breakdown of work completed
+   - Supporting documentation (photos, reports)
+   - Signed approval from project manager
+
+3. **Payment Timeline**:
+   - Invoices processed within 30 days
+   - Disputes addressed within 10 business days
+   - Final payment within 60 days of project completion
+
+4. **Retention Release**:
+   - Held until project completion
+   - Released after final inspection
+   - Conditional on defect-free work
+
+## Quality Assurance
+
+### What is the process for quality inspection?
+
+Quality inspections follow these procedures:
+
+1. **Pre-Construction**:
+   - Review specifications and standards
+   - Establish quality benchmarks
+   - Identify critical checkpoints
+
+2. **During Construction**:
+   - Daily visual inspections
+   - Material testing and verification
+   - Workmanship quality checks
+   - Documentation of findings
+
+3. **Milestone Inspections**:
+   - Formal inspections at major milestones
+   - Third-party verification when required
+   - Sign-offs from relevant stakeholders
+
+4. **Final Inspection**:
+   - Comprehensive walk-through
+   - Punch list creation
+   - Deficiency correction verification
+   - Final acceptance sign-off
+
+---
+
+**Note**: This is a sample document for testing the RAG system. Replace with actual construction marketplace documents for production use.

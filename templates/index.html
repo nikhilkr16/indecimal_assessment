@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Construction Marketplace Assistant</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <div class="header-content">
+                <h1>🏗️ Construction Marketplace Assistant</h1>
+                <p class="subtitle">Ask questions about construction policies, FAQs, and specifications</p>
+            </div>
+        </header>
+
+        <main class="main-content">
+            <div class="chat-container" id="chatContainer">
+                <div class="welcome-message">
+                    <div class="welcome-icon">💬</div>
+                    <h2>Welcome!</h2>
+                    <p>I'm your AI assistant for construction-related questions.</p>
+                    <p class="small-text">I only answer based on internal documents, so my responses are always grounded in official information.</p>
+                    
+                    <div class="example-queries">
+                        <p class="examples-title">Try asking:</p>
+                        <button class="example-btn" onclick="askExample('What factors affect construction project delays?')">
+                            What factors affect construction project delays?
+                        </button>
+                        <button class="example-btn" onclick="askExample('What are the safety requirements for construction sites?')">
+                            What are the safety requirements?
+                        </button>
+                        <button class="example-btn" onclick="askExample('How do I handle material procurement?')">
+                            How do I handle material procurement?
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="input-container">
+                <form id="queryForm" class="query-form">
+                    <input 
+                        type="text" 
+                        id="queryInput" 
+                        class="query-input" 
+                        placeholder="Ask a question about construction..."
+                        autocomplete="off"
+                        required
+                    >
+                    <button type="submit" class="send-btn" id="sendBtn">
+                        <span class="send-icon">➤</span>
+                    </button>
+                </form>
+            </div>
+        </main>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
